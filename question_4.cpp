@@ -1,4 +1,4 @@
-// 1123542_LEVINSON
+// 1123542_Levinson
 #include <iostream>
 #include <queue>
 using namespace std;
